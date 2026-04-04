@@ -9,7 +9,7 @@
 AI Engineer building real-time intelligent systems
 
 > specialization
-- Computer Vision (production systems)
+- Computer Vision (real-time systems)
 - Speech AI (real-time processing)
 - NLP (low-resource languages)
 
