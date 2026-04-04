@@ -1,7 +1,7 @@
 # Zaur Asgarov
 
 <p align="center">
-  <img src="https://media.tenor.com/4K0Q2Zk6yX0AAAAC/jon-snow-battle-of-the-bastards.gif" width="700"/>
+  <img src="https://media.giphy.com/media/3o7TKF1fSIs1R19B8k/giphy.gif" width="700"/>
 </p>
 
 ```bash
