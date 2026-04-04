@@ -1,4 +1,4 @@
-# Zaur Asgarov
+<h1 align="center">Zaur Asgarov</h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/UwcnENCrr7EAAAAd/jon-snow-facing-army-jon-snow.gif" width="700"/>
@@ -6,7 +6,7 @@
 
 ```bash
 > whoami
-Zaur Asgarov (AI Engineer)
+AI Engineer building real-time intelligent systems
 
 > specialization
 - Computer Vision (production systems)
