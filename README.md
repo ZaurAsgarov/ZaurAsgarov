@@ -1,4 +1,8 @@
-# 🧠 Zaur Asgarov — AI Engineer
+# Zaur Asgarov
+
+<p align="center">
+  <img src="https://media.tenor.com/4K0Q2Zk6yX0AAAAC/jon-snow-battle-of-the-bastards.gif" width="700"/>
+</p>
 
 ```bash
 > whoami
