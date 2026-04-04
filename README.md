@@ -65,4 +65,4 @@ Build production-grade AI systems that operate under real-world constraints
 </p>
 
 
-![Snake animation](https://github.com/ZaurAsgarov/ZaurAsgarov/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ZaurAsgarov/ZaurAsgarov/blob/output/github-contribution-grid-snake.svg)
