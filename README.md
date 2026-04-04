@@ -26,9 +26,17 @@ AI Engineer building real-time intelligent systems
   → Worked on AI applications in aerospace & space systems
 
 > systems_built
-- Real-time ALPR system (vehicle recognition in banking environment)
-- Speech pipeline (Silero VAD + SpeechBrain SER)
-- Azerbaijani NER (BERT-based, ~0.89 F1)
+- Real-time ALPR system
+  → Vehicle detection + OCR + database logging
+  → Designed for banking environment with continuous inference
+
+- Speech processing pipeline
+  → Voice Activity Detection (Silero) + Emotion Recognition (SpeechBrain)
+  → Real-time audio stream processing
+
+- Azerbaijani NER system
+  → BERT-based model for low-resource language
+  → Achieved ~0.89 F1 score
 
 > engineering_skills
 - End-to-end ML systems (data → training → deployment)
