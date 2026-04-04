@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🧠 Zaur Asgarov — AI Engineer
 
-<!--
-**ZaurAsgarov/ZaurAsgarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
+Zaur Askerov (AI Engineer)
 
-Here are some ideas to get you started:
+> specialization
+- Computer Vision (production systems)
+- Speech AI (real-time processing)
+- NLP (low-resource languages)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> experience
+- AI Engineer Intern @ Kapital Bank
+  → Built ALPR system (YOLO + OCR) deployed in production
+  → Designed full pipeline: detection → recognition → logging (PostgreSQL)
+
+- Data Analyst Intern @ Azercosmos
+  → Processed satellite data (Python, SQL)
+  → Built data pipelines for AI/analytics workflows
+
+- Research Intern @ MBRSC (UAE)
+  → Worked on AI applications in aerospace & space systems
+
+> systems_built
+- Real-time ALPR system (vehicle recognition in banking environment)
+- Speech pipeline (Silero VAD + SpeechBrain SER)
+- Azerbaijani NER (BERT-based, ~0.89 F1)
+
+> engineering_skills
+- End-to-end ML systems (data → training → deployment)
+- Real-time inference systems
+- Model optimization & evaluation
+- Data pipeline design
+
+> current_focus
+- Improving NLP for low-resource languages
+- Exploring LLMs & transformer architectures
+- Scaling AI systems for real-world deployment
+
+> goal
+Build production-grade AI systems that operate under real-world constraints
