@@ -1,7 +1,7 @@
 # Zaur Asgarov
 
 <p align="center">
-  <img src="[https://media1.tenor.com/m/xAkzHCa12FYAAAAd/jon-snow-game-of-thrones.gif](http://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx2ZnpsMWk1dDZtZHgxbmFybjR3Y2x0bjF1Znk1Z3UxcHI2OWwxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI1erPMTMBFmNHi/giphy.gif)" width="700"/>
+  <img src="https://media1.tenor.com/m/UwcnENCrr7EAAAAd/jon-snow-facing-army-jon-snow.gif" width="700"/>
 </p>
 
 ```bash
