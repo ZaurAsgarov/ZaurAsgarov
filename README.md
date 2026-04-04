@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # 🧠 Zaur Asgarov — AI Engineer
 
 ```bash
@@ -69,3 +63,6 @@ Build production-grade AI systems that operate under real-world constraints
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
+
+
+![Snake animation](https://github.com/ZaurAsgarov/ZaurAsgarov/blob/output/github-contribution-grid-snake.svg)
