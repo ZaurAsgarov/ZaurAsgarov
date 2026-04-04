@@ -45,3 +45,8 @@ Zaur Asgarov (AI Engineer)
 
 > goal
 Build production-grade AI systems that operate under real-world constraints
+
+
+#Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
