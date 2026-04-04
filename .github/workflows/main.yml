@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
   schedule:
@@ -10,15 +10,16 @@ permissions:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk@master
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ZaurAsgarov
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
