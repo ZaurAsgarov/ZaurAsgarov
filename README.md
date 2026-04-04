@@ -50,7 +50,7 @@ AI Engineer building real-time intelligent systems
 - Scaling AI systems for real-world deployment
 
 > goal
-Build production-grade AI systems that operate under real-world constraints
+Design and deploy AI systems that remain reliable under real-world constraints
 
 ```
 
